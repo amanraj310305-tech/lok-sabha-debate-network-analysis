@@ -1,0 +1,5 @@
+pandas
+networkx
+matplotlib
+nltk
+python-louvain
